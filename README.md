@@ -1,2 +1,2 @@
 # Finch
-Finch is page editor program.
+Finch is web page editor program.
